@@ -77,7 +77,6 @@ nav ul li:hover ul {
   opacity: 1;
   visibility: visible;
 }
-}
 #wrapper-column {
 width: 145%;
 overflow: hidden;
@@ -102,6 +101,5 @@ footer {
 width: 145%;
 background: Indigo;
 font-family: "Arial"
-color: white
 }
   
