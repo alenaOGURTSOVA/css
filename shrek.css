@@ -64,25 +64,18 @@ font-family: 'Gill Sans', sans-serif;
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
-
-/* first letter style */
-
-.fl {
+#flat .fl {
  color: #228B22;
 }
 
-.sl {
- color: #696969;
+#flat .sl {
+ color: #696969;;
 }
 
-.tl {
+#flat .tl {
  color: #FF8C00;
 }
 
-/*Title */
-
-
-/**************************/
 #flat .title {
  background: white;
  padding: 60px;
